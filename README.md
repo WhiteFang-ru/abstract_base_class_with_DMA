@@ -8,6 +8,9 @@ That is, it should feature an array of pointers to the ABC and allow the user to
 as to what types of objects are created.Add virtual View() methods to the class definitions to handle displaying the data.
 
 Sample user input after line 15 in ...client.cpp:
+
 1: Shirt - firstDerived (label - "Portabelly")
+
 2: Baloon - lacksDMA (label - "Blimpo")
+
 3: Map - hasDMA (style - "Mercator", label - publisher = "Lonely Planet Publications")
